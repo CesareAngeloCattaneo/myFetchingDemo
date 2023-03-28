@@ -3,3 +3,5 @@ fornitore2
 fornitore3
 fornitore4
 fornitore5
+forintore6
+fornitore7
